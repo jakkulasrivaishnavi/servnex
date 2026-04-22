@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ⚡ SkillBridge — Local Services Platform
 
 A full-stack MERN application connecting users with verified local service providers (electricians, plumbers, carpenters, etc.) with real-time chat, live tracking, Razorpay payments, and an admin dashboard.
@@ -307,3 +308,6 @@ Add your Maps API key to `.env` and replace the static address display in `Searc
 | Provider Availability Toggle | ✅ |
 | Status Timeline | ✅ |
 | Notification System | ✅ |
+=======
+# servnex
+>>>>>>> 7c1f0adcb20da132c3cd0a70fbc4a2ecbad79cf5
